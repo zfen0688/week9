@@ -28,4 +28,4 @@ __My first repository for IDEA9103__
 
 ![An image of a cat](https://placekitten.com/200/300 Links to an external site.)
 
-![monalisa](./readmeImages/mona_lisa.jpg)
+![monalisa](./readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700)
