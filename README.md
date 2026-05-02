@@ -25,3 +25,5 @@ __My first repository for IDEA9103__
 3. Third Item
 
 [Link Text](https://www.google.com)
+
+![An image of a cat](https://placekitten.com/200/300 Links to an external site.)
