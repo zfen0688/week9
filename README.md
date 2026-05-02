@@ -27,3 +27,5 @@ __My first repository for IDEA9103__
 [Link Text](https://www.google.com)
 
 ![An image of a cat](https://placekitten.com/200/300 Links to an external site.)
+
+![monalisa](./readmeImages/mona_lisa.jpg)
