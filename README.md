@@ -14,3 +14,13 @@ This is my first local change to the repo!
 _My first repository for IDEA9103_
 *My first repository for IDEA9103*
 __My first repository for IDEA9103__
+
+- Item1
+- item2
+  - Subitem2.1
+  - Subitem2.2
+
+1. First Item
+2. Second Item
+3. Third Item
+
