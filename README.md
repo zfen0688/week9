@@ -30,7 +30,7 @@ __My first repository for IDEA9103__
 
 ![monalisa](./readmeImages/image.png)
 
-```
+```javascript
 function helloWorld() {
 console.log("Hello, world!");
 }
