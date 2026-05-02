@@ -29,3 +29,9 @@ __My first repository for IDEA9103__
 ![An image of a cat](https://placekitten.com/200/300 Links to an external site.)
 
 ![monalisa](./readmeImages/image.png)
+
+```
+function helloWorld() {
+console.log("Hello, world!");
+}
+```
